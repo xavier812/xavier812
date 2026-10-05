@@ -137,9 +137,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xavier812/xavier812/output/github-contribution-grid-snake-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xavier812/xavier812/output/github-contribution-grid-snake.svg?v=2">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/xavier812/xavier812/output/github-contribution-grid-snake-dark.svg?v=2" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xavier812/xavier812/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xavier812/xavier812/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/xavier812/xavier812/output/github-contribution-grid-snake.gif" width="100%" />
   </picture>
 </div>
 
